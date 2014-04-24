@@ -1,0 +1,24 @@
+2014-04-23 15:20:36.418 IST [Start Level Event Dispatcher] INFO  o.o.c.c.s.internal.ClusterManager - I'm a GossipRouter will listen on port 12001
+2014-04-23 15:20:36.446 IST [Start Level Event Dispatcher] INFO  o.o.c.c.s.internal.ClusterManager - Started GossipRouter
+2014-04-23 15:20:36.447 IST [Start Level Event Dispatcher] INFO  o.o.c.c.s.internal.ClusterManager - Starting the ClusterManager
+2014-04-23 15:20:38.097 IST [fileinstall-./plugins] INFO  o.o.c.n.i.osgi.NetconfImplActivator - Starting TCP netconf server at /127.0.0.1:8383
+2014-04-23 15:20:47.375 IST [Web socket server] INFO  o.o.c.s.s.w.WebSocketServer - Web socket server started at port 8181.
+2014-04-23 15:20:51.635 IST [ControllerI/O Thread] INFO  o.o.c.p.o.c.internal.ControllerIO - Controller is now listening on any:6633
+2014-04-23 15:20:51.767 IST [Start Level Event Dispatcher] INFO  o.o.c.c.i.ConfigurationService - ConfigurationService Manager init
+2014-04-23 15:20:52.112 IST [Start Level Event Dispatcher] WARN  o.o.c.u.internal.UserManager - Network Administrator password is set to factory default. Please change the password as soon as possible.
+2014-04-23 15:20:54.876 IST [config-pusher] INFO  o.o.c.s.b.i.RootBindingAwareBroker - Starting Binding Aware Broker: binding-broker-impl
+2014-04-23 15:20:58.365 IST [pool-5-thread-1] INFO  o.o.c.frm.flow.FlowProvider - Flow Config Provider started.
+2014-04-23 15:20:58.368 IST [pool-5-thread-1] INFO  o.o.c.frm.group.GroupProvider - Group Config Provider started.
+2014-04-23 15:20:58.371 IST [pool-5-thread-1] INFO  o.o.c.frm.meter.MeterProvider - Meter Config Provider started.
+2014-04-23 15:20:58.530 IST [config-pusher] INFO  o.o.c.s.c.topology.TopologyProvider - TopologyProvider started
+2014-04-23 15:20:58.546 IST [pool-5-thread-3] INFO  o.o.m.c.t.l.LLDPDiscoveryProvider - LLDPDiscoveryListener Started.
+2014-04-23 15:20:58.549 IST [pool-5-thread-4] INFO  o.o.c.m.i.m.FlowCapableInventoryProvider - Flow Capable Inventory Provider started.
+2014-04-23 15:20:58.583 IST [pool-5-thread-1] INFO  o.o.c.m.s.m.StatisticsProvider - Statistics Provider started.
+2014-04-23 15:20:59.852 IST [fileinstall-./plugins] INFO  o.o.c.n.s.a.PEMGenerator - Generating private key to /home/samta/Development/opendaylight/./configuration/RSA.pk
+2014-04-23 15:21:00.195 IST [config-pusher] INFO  o.o.c.s.c.remoterpc.ServerImpl - Remote RPC Server started [10.162.103.97:5666]
+2014-04-23 15:21:00.249 IST [config-pusher] INFO  o.o.c.c.y.c.t.i.ToasterConsumerModule - Toaster consumer (instance org.opendaylight.controller.config.yang.config.toaster_consumer.impl.ToasterConsumerModule$1AutoCloseableToastConsumer@77d78420) initialized.
+2014-04-23 15:21:00.257 IST [config-pusher] INFO  o.o.c.c.y.c.t.i.ToasterProviderModule - Toaster provider (instance org.opendaylight.controller.config.yang.config.toaster_provider.impl.ToasterProviderModule$1AutoCloseableToaster@382eecfb) initialized.
+2014-04-23 15:21:00.265 IST [config-pusher] INFO  o.o.c.n.p.i.o.ConfigPersisterActivator - Configuration Persister initialization completed.
+2014-04-23 15:23:23.413 IST [ControllerI/O Thread] INFO  o.o.c.p.o.core.internal.Controller - Switch:127.0.0.1:43820 is connected to the Controller
+2014-04-23 15:23:23.562 IST [ControllerI/O Thread] INFO  o.o.c.p.o.core.internal.Controller - Switch:127.0.0.1:43821 is connected to the Controller
+2014-04-23 15:23:23.585 IST [ControllerI/O Thread] INFO  o.o.c.p.o.core.internal.Controller - Switch:127.0.0.1:43822 is connected to the Controller
